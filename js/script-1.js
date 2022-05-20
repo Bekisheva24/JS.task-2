@@ -2,6 +2,5 @@
 
 // let string = "ddd@bbb@ccc";
 
-// console.log(string.replace(/@/g, '!'));
+// console.log(string.replaceAll('@', '!'));
 
-// Воспользовалась глобальным поиском "g" с пом. регулярного выражения.
